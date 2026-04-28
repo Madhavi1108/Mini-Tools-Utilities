@@ -119,12 +119,6 @@ Pull requests are welcome. For major changes, open an issue first to discuss imp
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## ✨ Acknowledgment
 
 All data used is obtained from official export provided by Instagram.
