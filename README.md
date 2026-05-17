@@ -10,7 +10,7 @@ This repository includes the following tools:
 
 * 🔐 **Caesar Cipher** – Encrypt and decrypt text using classic substitution logic
 * ☕ **Coffee Maker (OOP)** – Simulates a coffee machine using object-oriented programming
-* 🔑 **Password Generator** – Generates strong, randomized passwords
+* 🔑 **Password Generator** – Generates strong, randomized passwords 
 * ⏱️ **Pomodoro Timer (GUI)** – Productivity timer with a graphical interface
 * 🌡️ **Temperature Converter** – Convert between Celsius, Fahrenheit, and Kelvin
 * 💰 **Tip Calculator** – Quickly calculate bill splits and tips
